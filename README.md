@@ -10,7 +10,12 @@ The notes are maintained by Cree Dalene, a Senior Cybersecurity Assessor and Eng
 The content strives to provide clear, structured coverage of core security architecture topics, including enterprise security architecture design, resilient systems analysis, secure Systems Development Lifecycle (SDLC) integration, cloud and hybrid architectures, and implementation of advanced security controls.
 
 ## Detailed Notes
-All sections reference primary authoritative sources including NIST SP 800-53, NIST SP 800-171, NIST SP 800-207, CIS benchmarks, DoD guidelines, and industry best practices. Features comparison tables, architecture diagrams, configuration examples, and practical threat considerations.
+- **[SecurityX (CAS-005) Domain 2.1: Resilient Systems Design](https://github.com/creedalene/CompTIA-SecurityX-Domain2.Security-Architecture/blob/main/SecurityX-Domain2.1.md)**
+- **[SecurityX (CAS-005) Domain 2.2: Security in the Systems Life Cycle](https://github.com/creedalene/CompTIA-SecurityX-Domain2.Security-Architecture/blob/main/SecurityX-Domain2.2.md)**
+- **[SecurityX (CAS-005) Domain 2.3: Integrating Controls in Secure Architecture Design](https://github.com/creedalene/CompTIA-SecurityX-Domain2.Security-Architecture/blob/main/SecurityX-Domain2.3.md)**
+- **[SecurityX (CAS-005) Domain 2.4: Access, Authentication, and Authorization Systems](https://github.com/creedalene/CompTIA-SecurityX-Domain2.Security-Architecture/blob/main/SecurityX-Domain2.4.md)**
+- **[SecurityX (CAS-005) Domain 2.5: Secure Cloud Capabilities Implementation](https://github.com/creedalene/CompTIA-SecurityX-Domain2.Security-Architecture/blob/main/SecurityX-Domain2.5.md)**
+- **[SecurityX (CAS-005) Domain 2.6: Integrating Zero Trust Concepts into System Architecture Design](https://github.com/creedalene/CompTIA-SecurityX-Domain2.Security-Architecture/blob/main/SecurityX-Domain2.6.md)**
 
 ## Key Topics
 * Enterprise security architecture design and resilient systems
